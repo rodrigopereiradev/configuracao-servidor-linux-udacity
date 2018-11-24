@@ -70,8 +70,8 @@ A possibilidade de acesso remoto do usuário root foi impedido alterando o arqui
 
 ### Referências para pesquisa:
 
-https://stackoverflow.com/
-https://www.vivaolinux.com.br/
-https://modwsgi.readthedocs.io/en/develop/
-http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
-https://github.com/kongling893/Linux-Server-Configuration-UDACITY
+https://stackoverflow.com/  
+https://www.vivaolinux.com.br/  
+https://modwsgi.readthedocs.io/en/develop/  
+http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/  
+https://github.com/kongling893/Linux-Server-Configuration-UDACITY  

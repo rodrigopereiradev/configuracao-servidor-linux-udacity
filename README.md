@@ -20,6 +20,8 @@ A porta default de acesso à instância foi alterada de 22 para 2200 através da
 
 O Uncomplicated Firewall (UFW) foi configurado para permitir somente conexões de entrada para SSH (porta 2200), HTTP (porta 80) e NTP (porta 123).
 
+O Uncomplicated Firewall (UFW) foi configurado para negar a acesso pela porta 22.
+
 ### Criação do usuário "grader"
 
 Foi criado um novo usuário chamado grader e foi dada a permissão para sudo foi dado a ele;
@@ -75,3 +77,5 @@ https://www.vivaolinux.com.br/
 https://modwsgi.readthedocs.io/en/develop/  
 http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/  
 https://github.com/kongling893/Linux-Server-Configuration-UDACITY  
+https://my.esecuredata.com/index.php?/knowledgebase/article/7/allow-or-deny-a-port-ufw-ubuntu  
+https://debian-administration.org/article/69/Some_upgrades_show_packages_being_kept_back  
